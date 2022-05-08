@@ -4,6 +4,27 @@
 /frontpage/.pnp
 /frontpage/.pnp.js
 
+# testing
+/frontpage/coverage
+
+# production
+/frontpage/build
+
+# misc
+/frontpage/.DS_Store
+/frontpage/.env.local
+/frontpage/.env.development.local
+/frontpage/.env.test.local
+/frontpage/.env.production.local
+
+/frontpage/npm-debug.log*
+/frontpage/yarn-debug.log*
+/frontpage/yarn-error.log*
+
+
+
+
+
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
