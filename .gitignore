@@ -1,3 +1,9 @@
+# dependencies
+/node_modules
+/frontpage/node_modules
+/frontpage/.pnp
+/frontpage/.pnp.js
+
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
